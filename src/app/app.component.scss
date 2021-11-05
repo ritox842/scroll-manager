@@ -1,0 +1,31 @@
+main {
+  display: flex;
+}
+
+section {
+  flex-grow: 1;
+}
+
+nav {
+  position: sticky;
+  top: 10px;
+  display: flex;
+  gap: 10px;
+}
+
+article {
+  background: gray;
+  width: 500px;
+  margin: 60px auto;
+}
+
+.horizontal-scroll {
+  display: flex;
+  overflow-x: scroll;
+  width: 400px;
+}
+
+.horizontal-scroll article {
+  flex-shrink: 0;
+  margin: 60px;
+}

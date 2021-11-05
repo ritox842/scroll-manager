@@ -1,0 +1,30 @@
+{
+  "projectName": "scroll-manager",
+  "projectOwner": "@ritox842",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "ritox842",
+      "name": "Gili Yaniv",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7280441?v=4",
+      "profile": "https://github.com/ritox842",
+      "contributions": [
+        "code",
+        "content",
+        "doc",
+        "ideas",
+        "infra",
+        "maintenance",
+        "review"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
