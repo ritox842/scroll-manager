@@ -1,11 +1,36 @@
 {
   "name": "scroll-manager",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "peerDependencies": {
     "@angular/common": "^13.0.0",
     "@angular/core": "^13.0.0"
   },
   "dependencies": {
     "tslib": "^2.3.0"
+  },
+  "keywords": [
+    "angular",
+    "angular 2",
+    "scroll",
+    "scroll manager",
+    "anchor",
+    "anchors",
+    "carousel"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Gili Yaniv",
+    "url": "https://github.com/ritox842"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/ritox842/scroll-manager/issues"
+  },
+  "homepage": "https://github.com/ritox842/scroll-manager/blob/main/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ritox842/scroll-manager"
   }
 }
