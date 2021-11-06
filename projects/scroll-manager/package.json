@@ -1,6 +1,6 @@
 {
-  "name": "ritox-scroll-manager",
-  "version": "0.0.5",
+  "name": "@ritox/scroll-manager",
+  "version": "0.0.6",
   "dependencies": {
     "tslib": "^2.3.0"
   },
